@@ -1,116 +1,25 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Nouh Sayed Ahmed Soliman</h1>
+<!-- ================= CYBERPUNK ULTIMATE README ================= -->
 
-<h3 align="center">🚀 Frontend Developer | JavaScript Enthusiast | Future Full Stack Engineer</h3>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=FF00FF&center=true&vCenter=true&width=1000&lines=Nouh+Sayed+Ahmed+Soliman;Frontend+Developer;JavaScript+Engineer;SQL+Specialist;Future+Full+Stack+Legend" />
+</h1>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer;JavaScript+Lover;React+Learner;Building+Modern+Web+Apps" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=ULTIMATE%20CYBERPUNK&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<!-- NEON LINE -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=header"/>
-</p>
-
----
-
-# 🧑‍💻 About Me  
-
-✨ Passionate about building modern web applications  
-🌍 Based in Turkey  
-📚 Currently learning Advanced JavaScript & React  
-🎯 Goal: Become Professional Full Stack Developer  
-💡 Love solving problems and learning new technologies  
-
----
-
-# 🛠️ Tech Stack  
-
-### 💻 Languages  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,c,cs,sql" />
-</p>
-
-### ⚙️ Frameworks & Tools  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,bootstrap,git,github,vscode,visualstudio" />
+<img src="https://komarev.com/ghpvc/?username=nouh-sayed&label=Profile%20Views&color=ff00ff&style=for-the-badge"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats  
+# 👾 About Me  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nouh-sayed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nouh-sayed&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouh-sayed&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies  
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nouh-sayed&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation  
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 💡 Random Dev Quote  
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 📂 Featured Projects  
-
-🔹 📝 ToDo List App — Task manager with Local Storage  
-🔹 🌐 Frontend UI Projects — Responsive websites  
-🔹 🗄️ Database Projects — SQL Server  
-
----
-
-# 🌐 Connect With Me  
-
-<p align="center">
-<a href="https://www.facebook.com/profile.php?id=100021770982571">
-<img src="https://skillicons.dev/icons?i=facebook"/>
-</a>
-
-<a href="https://instagram.com/nouhsayed0">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-</p>
-
----
-
-# ⚡ Fun Fact  
-
-💬 Coding is not just writing code — it's building the future 🚀  
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
-</p>
-
-<p align="center">
-⭐️ From <a href="https://github.com/nouh-sayed">Nouh Sayed</a>
-</p>
+```diff
++ Frontend Developer with strong SQL experience
++ Passionate about futuristic web technologies
++ Currently mastering React & Advanced JavaScript
++ Based in Turkey
++ Goal: Become Elite Full Stack Engineer
++ Love solving real world problems with code
