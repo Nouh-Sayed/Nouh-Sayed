@@ -81,7 +81,7 @@
 Issued in **Cairo, Egypt — 15/03/2023**
 
 <p align="center">
-  <img src="WhatsApp Image 2026-04-13 at 7.08.21 PM.jpeg" alt="AHK Certificate" width="650"/>
+  <img src="WhatsApp Image 2026-04-13 at 7.08.21 PM.jpeg" alt="AHK Certificate" width="50%"/>
 </p>
 
 ---
