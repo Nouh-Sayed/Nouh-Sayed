@@ -77,7 +77,7 @@
 ## 📜 Certifications
 
 ### AHK German-Arab Chamber Certificate
-**Electronics Technician for Industrial Engineering**  
+**AHK Certified in Industrial Electronics & IT Systems**  
 Issued in **Cairo, Egypt — 15/03/2023**
 
 <p align="center">
